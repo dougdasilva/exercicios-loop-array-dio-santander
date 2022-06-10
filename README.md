@@ -1,10 +1,11 @@
 # Bem vindos a esse repositório!
 
-## Exercicios resolvidos da aula de Estrutura de Repetição e Arrays em Java pela 
+## Exercícios resolvidos da aula de Estrutura de Repetição e Arrays em Java pela 
 ### Prof: Camila Cavalcante
 
 ### DIO - BOOTCAMP SANTANDER FULLSTACK
 
+-- Lista de Exercícios
 - ArrayMultidimensional
 - Consoantes
 - Fatorial
